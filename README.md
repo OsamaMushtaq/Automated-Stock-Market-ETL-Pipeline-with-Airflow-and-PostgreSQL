@@ -18,7 +18,7 @@ An end-to-end project to demonstrate real-time stock data extraction, transforma
   * [4. Load Data Locally (Optional Script Test)](#4-load-data-locally-optional-script-test)
   * [5. Schedule and Trigger with Airflow](#5-schedule-and-trigger-with-airflow)
 * [Project Flow](#project-flow)
-* [Screenshots](#screenshots)
+* [AirFlow Dags list](#AirFlow_Dags_list)
 
 
 ---
@@ -143,6 +143,6 @@ Airflow (Schedules ETL every hour)
 
 ---
 
-## 🖼️ ScreenShots
+## 🖼️ AirFlow Dags list
 ![Airflow DAG](./screenshot/airflow_dags.png)
 
