@@ -143,7 +143,6 @@ Airflow (Schedules ETL every hour)
 
 ---
 
-## 🖼️ Screenshots
-
-> Add screenshots of the Airflow UI, DAG run success, and sample data in PostgreSQL.
+## 🖼️ Airflow DAG List
+![Airflow DAG](./screenshot/airflow_dags.png)
 
