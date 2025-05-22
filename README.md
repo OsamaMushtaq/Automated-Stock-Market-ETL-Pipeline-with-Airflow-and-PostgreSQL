@@ -18,8 +18,8 @@ An end-to-end project to demonstrate real-time stock data extraction, transforma
   * [4. Load Data Locally (Optional Script Test)](#4-load-data-locally-optional-script-test)
   * [5. Schedule and Trigger with Airflow](#5-schedule-and-trigger-with-airflow)
 * [Project Flow](#project-flow)
-* [Screenshots](#screenshots)
-* [License](#license)
+* [Airflow DAG List](#AirflowdagList)
+
 
 ---
 
